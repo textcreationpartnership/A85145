@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pure language of the spirit of truth, set forth for the confounding false languages, acted out of pride, ambition, and deceit. Or, thee and thou, in its place is the proper language to any single person whatsoever. Proved by several examples, that is herein laid down by plain Scripture, for the convinceing, and stopping the mouths of gainsayers: many more examples might have been laid down, but what is herein mentioned and proved by Scriptures are sufficient for the same.</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85145</idno>
+            <idno type="STC">Wing F494</idno>
+            <idno type="STC">Thomason E829_5</idno>
+            <idno type="STC">ESTC R235371</idno>
+            <idno type="EEBO-CITATION">99873531</idno>
+            <idno type="PROQUEST">99873531</idno>
+            <idno type="VID">168067</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168067)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E829[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pure language of the spirit of truth, set forth for the confounding false languages, acted out of pride, ambition, and deceit. Or, thee and thou, in its place is the proper language to any single person whatsoever. Proved by several examples, that is herein laid down by plain Scripture, for the convinceing, and stopping the mouths of gainsayers: many more examples might have been laid down, but what is herein mentioned and proved by Scriptures are sufficient for the same.</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert at the black spread Eagle neer the west end of Pauls,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Page 6 signed: R. Forneworth.</note>
+                  <note>Annotation on Thomason copy: "March 1 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Forms of address --  Early works to 1800.</term>
+               <term>Quakers --  Social life and customs --  Early works to 1800.</term>
+               <term>English language --  Usage --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168067:1" rendition="simple:additions"/>
+            <head>The Pure LANGUAGE Of the Spirit of Truth, Set forth for the confounding falſe Languages, act<g ref="char:EOLhyphen"/>ed out of pride, ambition, and deceit.</head>
+            <head type="sub">OR Thee and Thou, In its place is the proper Language to any ſingle perſon whatſoever.</head>
+            <head type="sub">Proved by ſeveral Examples, that is herein laid down by plain Scripture, for the convinceing, and ſtopping the mouths of gainſayers: many more Examples might have been laid down, but what is herein men<g ref="char:EOLhyphen"/>tioned and proved by Scriptures are ſufficient for the ſame.</head>
+            <div type="part">
+               <p>THe Word of the Lord God, to all you who cannot bear the pure language of the Scriptures, and to all who are in the Spirit, and the language they were in that gave forth the Scriptures.</p>
+               <p>Firſt, Ye that have profeſſed the Scriptures to be your rule, Prieſts, People, Judges, Nobles, and Kings, Fathers, Profeſſors and Rulers, who, <hi>thee</hi> and <hi>thou</hi> the Lord God, and Chriſt in your prayers, and when any <hi>thee</hi> &amp; <hi>thou</hi> you as aforeſaid, you are them who are ready to murder, here you do manifeſt to be them that are out of the faith of our Lord Jeſus Chriſt, and ſuch as ſeeks honours one of another, <hi>John</hi>
+                  <pb n="2" facs="tcp:168067:2"/>5.44. and you are ſuch who exalts your ſelves above all that is called God, 2 <hi>Theſ.</hi> 2, 4. who your ſelves <hi>Thee</hi> and <hi>Thou</hi> God, and cannot take that your ſelves, which you give unto God, and Chriſt, here that which muſt be abaſed is exalted, which the hand of the Lord is againſt. God ſaid <hi>Thee</hi> and <hi>Thou</hi> to <hi>Adam,</hi> and <hi>Adam</hi> ſaid <hi>Thee</hi> and <hi>Thou</hi> to God again, and God ſaid <hi>Thee</hi> and <hi>Thou</hi> to <hi>Moſes,</hi> and <hi>Moſes</hi> ſaid <hi>Thee</hi> and <hi>Thou</hi> to God again: <hi>Jacob</hi> ſaid <hi>Thee</hi> and <hi>Thou</hi> to <hi>Laban,</hi> and <hi>Laban</hi> ſaid <hi>Thee</hi> and <hi>Thou</hi> to <hi>Jacob</hi> again, <hi>Thee</hi> and <hi>Thou</hi> is the proper language throughout the Scripture to any ſingle perſon of what degree or account ſoever, ſearch and ſee.</p>
+               <p>Secondly, You who profeſſe the Scriptures to be your rule, all who are offended at the proper, and alſo the plain language of the Spirit of truth: and <hi>Thee</hi> and <hi>Thou,</hi> to any ſingle perſon whatſoever, either King, Lord, Duke, Judge, Captain or Officer, you are ignorant of the life of the Scripture, and alſo ignorant of the language of the Spirit of truth, and knowes not the life of the holy men of God; that ſaid, <hi>Thee,</hi> and <hi>Thou</hi> to all ſorts of people in the ſingle perſon, where and whatſoever, as you may read at large in the books of <hi>Moſes, Samuel,</hi> and the books of <hi>Kings, Chronicles,</hi> and the writings of the Prophets and holy Apo<g ref="char:EOLhyphen"/>ſtles: they all, upon any occaſion whatſoever, ſpoke <hi>Thee</hi> and <hi>Thou,</hi> the words in their place are proper to any ſingle perſon, as the Scripture largely witneſſeth.</p>
+               <p>I inſtance ſome examples for the better information of the ſimple ones ſake, who deſire to walk blameleſly before the Lord, and alſo to ſtop the mouth of the deceipt therein: ſilence all fleſh, and ſtand ſtill ſubtilty.</p>
+               <p>
+                  <hi>Firſt Example.</hi> In the beginning God ſpake to <hi>Adam</hi> in paradiſe, and ſaid <hi>Thou</hi> to him there, as you may read <hi>Gen.</hi> 2.7, 8. &amp; 16, 17. Verſes: and <hi>Adam</hi> in the paradiſe there ſaid <hi>Thou</hi> to God again, read <hi>Gen.</hi> 3.9, 10, 11, to the end of the chapter.</p>
+               <p>
+                  <hi>The ſecond Example.</hi> The Lord God of heaven and earth, Creator and Governour thereof, he ſpoke to his ſervant <hi>Moſes, as a man ſpeaks to his friend,</hi> and in his word ſaid <hi>Thee</hi> and <hi>Thou</hi> to him, and <hi>Moſes</hi> the ſervant of the Lord ſpake of God again, and ſaid <hi>Thee</hi> and <hi>Thou</hi> to him, and God was not offended at him for it, neither did he ſay it was un<g ref="char:EOLhyphen"/>mannerly or uncivill, as proud fleſh doth now, neither did he ſay, <hi>take him away, I am in authority,</hi> and what a baſe word is this to <hi>Thou</hi> me, as exalted proud fleſh doth in theſe dayes: Gods preſence, power and authority hath union with <hi>Thee</hi> and <hi>Thou,</hi> then that power and authori<g ref="char:EOLhyphen"/>ty that cannot beare <hi>Thee</hi> and <hi>Thou</hi> is not of God, but judged with the higheſt power, even that which is of God, When <hi>Moſes</hi> did <hi>thou</hi> the powerfull God, and in his preſence when he ſpake face to face with him, as a man ſpeaks to his friend, God was not offended at him for it, but loved him dearly, and ſaid, his preſence ſhould go with him, and his goodneſſe ſhould paſſe before him. Read ye the ſweet and pure language between God and <hi>Moſes,</hi> who friendly did <hi>Thee</hi> and <hi>Thou</hi> each other, and the love ſtood firm; and with God and his friends it is the ſame
+<pb n="3" facs="tcp:168067:2"/>ſame now as it was, <hi>Exod.</hi> 33.11, 12, 13, 14. to the end of the chapter. But they that are the ſervants of the Devil cannot beare the language be<g ref="char:EOLhyphen"/>twixt God and his ſervants, but ſhewes another language, and ſo mani<g ref="char:EOLhyphen"/>feſts whoſe ſervants they be, of the Devill.</p>
+               <p>
+                  <hi>The third Example.</hi> When God ſpake to <hi>Jacob,</hi> he ſaid <hi>Thee</hi> and <hi>Thou</hi> to him, and <hi>Jacob</hi> at that time when he ſpake with God and ſaw his face, he then in the preſence of the Lord did ſay <hi>Thee</hi> and <hi>Thou</hi> to him again, and the Lord God was not offended at <hi>Jacob,</hi> for ſaying <hi>thou</hi> to him, as proud fleſh and the ſervants of the Devil are offended at the word <hi>Thou,</hi> ſpoken by the ſervants of the Lord in this generation, the living God, he was ſo well pleaſed with <hi>Jacob,</hi> who ſaid <hi>Thou,</hi> to him, that he bleſſed him, and gave him power, and ſaid, <hi>As a Prince haſt thou power with God, and with men, and haſt prevailed, Gen.</hi> 32.26, 27, 28. read that ſweet language betwixt God and <hi>Jacob,</hi> which is now betwixt God and his ſeed, which language is called uncivill or unman<g ref="char:EOLhyphen"/>nerly now with the Serpent and his ſeed, to ſay <hi>Thee</hi> and <hi>Thou,</hi> but God did not tell <hi>Jacob</hi> that it was uncivill, neither did he ſay it was un<g ref="char:EOLhyphen"/>mannerly, to ſay <hi>Thou</hi> to him. And in his preſence, when he ſaw Gods face, and was preſerved, and received the bleſſing from the Lord, <hi>Gen.</hi> 32.28, 29, 30.</p>
+               <p>
+                  <hi>A fourth Example.</hi> Between godly parents and their children. For, godly parents did <hi>Thou</hi> their children, and children did <hi>Thou</hi> their pa<g ref="char:EOLhyphen"/>rents again, and they were not offended at them for it (as pride is now) when <hi>Jacobs</hi> Sons did <hi>Thou</hi> their godly father,<note place="margin">
+                     <hi>Gen.</hi> 43.1, 2, 3, <hi>&amp;c. Gen.</hi> 47.29, 30</note> 
+                  <hi>Jacob</hi> did not ſay to his ſons that it was an uncivill and unmannerly word, (as proud and ungod<g ref="char:EOLhyphen"/>godly parents are ready to ſay now to ſuch children as fear and obey the Lord) but read the paſſages betwixt <hi>Jacob</hi> and his ſons, who ſaid <hi>thee</hi> and <hi>thou</hi> to each other; as words came in their places; and let their pra<g ref="char:EOLhyphen"/>ctice judge your pride and deceipt, who are of the Serpent and his ſeed, that are at enmity with the ſeed of God, and are offended at <hi>thee</hi> and <hi>thou,</hi> which they were not, nor are not now who are of <hi>Jacob</hi> and his ſeed, bleſſed for ever, but the Serpent and his ſeed are accurſt, and caſt out from God, therefore are they offended at the children of God, for ſpeaking the language of the Spirit of truth, witneſſed before amongſt the holy men of God. Read <hi>Gen.</hi> 43.1, 3, 4, 5. <hi>Gen.</hi> 47.29, 30. and <hi>Gen.</hi> the 48. &amp; 49. chapters.</p>
+               <p>
+                  <hi>The fifth Example. Jeptha,</hi> who was a Judge in <hi>Iſrael,</hi> he did <hi>thee</hi> and <hi>thou</hi> his daughter; and the Judges daughter did <hi>thee</hi> and <hi>thou</hi> the Judge her Father again; and though he were a Judge, he was not offen<g ref="char:EOLhyphen"/>ded at his daughter for ſaying, <hi>Thou</hi> to him, being one that feared God,<note place="margin">
+                     <hi>Iudg.</hi> 11.34, 35, <hi>&amp;c.</hi>
+                  </note> and ſerved him, neither did he call it uncivill or unmanerly: as proud fleſh doth now, and ſuch parents as are untaught the fear and obedi<g ref="char:EOLhyphen"/>ence to the Lord, which cannot bear the language of the Spirit of truth, either from their children or others that are in the truth, witneſſed in the holy Scriptures, for that example Read <hi>Judges</hi> 11.34.35.36. Verſes.</p>
+               <p>
+                  <pb n="4" facs="tcp:168067:3"/>
+                  <hi>The ſixth Example. Naomi</hi> did <hi>Thou Ruth</hi> her daughter in Law, and <hi>Ruth</hi> did <hi>Thou Naomi</hi> her mother in Law again,<note place="margin">
+                     <hi>Ruth</hi> 1.16.17. <hi>&amp;c.</hi>
+                  </note> and it were nei<g ref="char:EOLhyphen"/>ther uncivill nor unmannerly, as pride and ambition ſaith it is now, that is offended at the pure proper language, who cannot bear <hi>thee</hi> and <hi>thou,</hi> read that example of <hi>Ruth</hi> and <hi>Naomi,</hi> to judge your pride who are out of their practice, and offended at plainneſſe of ſpeech, <hi>Ruth</hi> 1.16. &amp;c. <hi>Ruth</hi> 3.5.6.</p>
+               <p>
+                  <hi>The ſeventh Example.</hi> Between maſters and ſervants: Maſters did <hi>thee</hi> and <hi>thou</hi> their ſervants, and ſervants did <hi>thee</hi> and <hi>thou</hi> their Ma<g ref="char:EOLhyphen"/>ſters again, and were not offended at them for it. <hi>Abraham</hi> did <hi>thee</hi> and <hi>thou</hi> his ſervant, <hi>Gen.</hi> 14.2. &amp; 4. and <hi>Abrahams</hi> ſervant did <hi>thee</hi> and <hi>thou</hi> his maſter again, and he were not offended at him for it, <hi>Gen.</hi> 24.5.6, &amp;c. though he was great and rich, <hi>Gen.</hi> 24.34.35.36. to the 43. &amp;c. he were not offended at his eldeſt ſervant for ſaying <hi>thou</hi> to him and to his kindred,<note place="margin">
+                     <hi>Gen.</hi> 24.1.2.3.4.</note> as proud fleſh, and ſuch as are great and rich, who are of the ſerpents ſeed, are offended now at <hi>thee</hi> and <hi>thou,</hi> either from their ſervants, or ſuch as truly fear the Lord and ſerve him, therefore do they not follow <hi>Abraham</hi> the father of the faithfull, judge your ſelves with the life of his words; and for your better information in that, read the 24. chapter of <hi>Geneſis.</hi>
+               </p>
+               <p>
+                  <hi>The eighth Example.</hi> Read thoſe other Seripures alſo, where ſervants did <hi>thou</hi> their maſters, though great and rich, even Kings, &amp;c. 1. <hi>Sam.</hi> 29.8.9.10. 1. <hi>Sam.</hi> 16.15.16.17. verſes. 1 <hi>Kings</hi> 20.31.32.33.34.</p>
+               <p>
+                  <hi>The nineth Example. Abrahams</hi> ſervant did <hi>thou</hi> the damſell, <hi>Gen.</hi> 24.47. <hi>Rebecha,</hi> when he went to take her to be his maſters ſons wife, he did <hi>thou</hi> the damſell <hi>Rebecha</hi> and her parents, and they were not offended at him for it, but <hi>Rebecha's</hi> brother ſhewed great kindneſſe to him, as the reſt did, and he called him the <hi>bleſſed of the Lord,</hi> Gen. 24.31. &amp;c.</p>
+               <p>
+                  <hi>The tenth Example.</hi> When <hi>Daniel</hi> and the three Children were exa<g ref="char:EOLhyphen"/>mined before the King, they ſaid <hi>thou</hi> to him, even to the King, in an<g ref="char:EOLhyphen"/>ſwer to their examination before him, <hi>Dan.</hi> 3.16.17.18.</p>
+               <p>
+                  <hi>The eleventh Example.</hi> The Chaldeans did <hi>thou</hi> the King, and he were not offended at them for it, read <hi>Dan.</hi> 3.8.9.10.</p>
+               <p>
+                  <hi>The twelfth Example. Jeremiah</hi> the true Prophet of the Lord did <hi>thou</hi> the Prieſt and the Governour, when the Prieſt ſmote <hi>Jeremiah</hi> on the face, out of the pride of his wicked heart, and cauſed the ſervant of the Lord to be ſet in the ſtocks in the high gate of <hi>Benjamin:</hi> Read <hi>Ier.</hi> 20.1.2.3. to the 9. verſe.</p>
+               <p>
+                  <hi>The thirteenth Example.</hi> Chriſt Jeſus the dear Son of God, in an<g ref="char:EOLhyphen"/>ſwer to his examination before the judgment-ſeat did <hi>thou</hi> the Judge, as in his examination and anſwer may be ſeen more fully. Read the Scriptures for proof to that Example, <hi>John</hi> 18.21.22.23. <hi>Matth.</hi> 26.60.61.62.63.64.65. <hi>Matth.</hi> 27, 11. <hi>Mark</hi> 15.1.2. <hi>John</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 31.32.33.34.</p>
+               <p>
+                  <pb n="5" facs="tcp:168067:3"/>
+                  <hi>The</hi> 14. <hi>Example.</hi> When <hi>Paul</hi> was before the King, and Gover<g ref="char:EOLhyphen"/>nours, and Officers, he did <hi>Thou</hi> the King, and <hi>Thou</hi> the chief Prieſt, and <hi>thou</hi> the Governours, and Officers, when he ſpake to any one in particular, in anſwer to his examination before them, or other<g ref="char:EOLhyphen"/>wiſe, as he was moved to ſpeake to any one of them in the particular, and he was not put in priſon for ſaying <hi>thou</hi> to the King, though the high Prieſt ſmote him on the face, as Prieſt <hi>Paſhur</hi> ſmote <hi>Jeremiah,</hi> ſhewing forth the pride and wickedneſſe of their hearts, and here the Prieſts and proud fleſh may read their figures &amp; ſuch as are like Prieſts like people. <hi>Hoſea</hi> 4.9. <hi>Hoſea</hi> 6.9. Silence proud fleſh, of what ſort ſoever, that cannot bear <hi>thou</hi> the word of the Lord, from his ſer<g ref="char:EOLhyphen"/>vants that do his Commands alſo: Read the example of <hi>Paul</hi> in an<g ref="char:EOLhyphen"/>ſwer to his examination before the Judgment-ſeat, who did <hi>thou</hi> the King, and <hi>thou</hi> the Judge,<note place="margin">
+                     <hi>Acts</hi> 6.1.2.3. <hi>&amp;c.</hi>
+                  </note> and <hi>thou</hi> the Governours and Officers that he had to ſpeak to, and with them one by one or in partitulars, for proof of that example ſee <hi>Acts</hi> 24.10.11. <hi>&amp;c. Acts</hi> 25.9.10. <hi>&amp;c.</hi> at large, <hi>Acts</hi> 23.24.25, 26. Chapters.</p>
+               <p>I is a particular, <hi>thee</hi> is a particular, and <hi>Thou</hi> is a particular, Single pure proper and plain unto one.</p>
+               <p>
+                  <hi>Wee</hi> is many, <hi>Ye</hi> is many, <hi>they</hi> is many, and <hi>You</hi> more then one. That which cannot bear <hi>thee</hi> and <hi>thou,</hi> to a ſingle perſon what ſort ſo<g ref="char:EOLhyphen"/>ever, is exalted proud fleſh and is accurſed with a curſe, and caſt out from God, but ſuch are the ſerpent and his ſeed, therefore ſilence deceipt, pride and ambition, who art of that ſeed and under that curſe ſtop thy mouth, who profeſſeth the Scriptures to be thy rule, and takes them to talk of as the Serpent did, <hi>Matth.</hi> 23.33. but works contrary to them as ſuch e<g ref="char:EOLhyphen"/>ver did, and when any ſayes <hi>thee</hi> or <hi>thou</hi> to <hi>thee, thou</hi> ſnuffs like the wilde Aſſe: Read thy ſelfe, <hi>Jer.</hi> 2.23.24. with the life of the Scriptures art thou judged, 1 <hi>Cor.</hi> 2.15. And with the Scripture art thou alſo caſt out from the people of God, who hath not yet learned their Language, who lives in the luſt, hypocriſie, pride and ambition,<note place="margin">
+                     <hi>Matth.</hi> 23.27.28, 29. to the 34.</note> who haſt profeſ<g ref="char:EOLhyphen"/>ſed the Scripture to be thy rule, but now thy hypocriſie is diſcovered, who cannot endure the language and life that gave forth the Scripture, there<g ref="char:EOLhyphen"/>fore art thou manifeſt to be the Serpent, and the painted harlot, which was ever judged with the Sprit of truth, in which is the pure language, which is the Judge of all falſe languages, and the Judge of unclean ſpi<g ref="char:EOLhyphen"/>rits, which uncleane ſprits now themſelves do manifeſt, which gnaw their tongues, and gnaſh their teeth,<note place="margin">
+                     <hi>Rev.</hi> 16.10.11. <hi>Iſa.</hi> 8.21.22.</note> fret themſelves at the pure language of the Spirit that gave forth the Scriptures. <hi>Matth.</hi> 23.31.32.33. <hi>Zeph.</hi> 3.8.9. <hi>&amp;c.</hi>
+               </p>
+               <closer>
+                  <signed>R. F.</signed>
+               </closer>
+               <postscript>
+                  <p>Many other examples might be inſtanced, but theſe are ſufficient to convince and ſtop the mouthes of gainſayers, about that which in the Examples before mentioned.</p>
+                  <p>
+                     <hi>Written from us, whom the world calls</hi> Quakers; <hi>who witneſſe and
+<pb n="6" facs="tcp:168067:4"/>practiſe the pure, proper, and ſingle plain Language, as the holy men and people of God of old time did, which the Scriptures bears teſtimony unto, &amp;c.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Written in</hi> Leiceſter-ſhire <hi>the beginning of</hi> 
+                        <date>
+                           <hi>the</hi> 11. <hi>moneth</hi>
+                        </date> 
+                        <hi>by one known to the world by</hi>
+                     </dateline>
+                     <signed>R. Forneworth.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="part">
+               <head>Nakedneſſe a ſigne or figure.</head>
+               <p>When the Lord ſpake to <hi>Iſay,</hi> in the year that <hi>Tartan</hi> came to <hi>Aſh<g ref="char:EOLhyphen"/>dod,</hi> at the ſame time ſpake the Lord by <hi>Iſay</hi> the ſon of <hi>Amos,</hi> ſaying, <hi>go and looſe thy ſackcloth from off thy loynes, and put off thy ſhoes from off thy feet:</hi> And he did ſo, walking naked and barefoot, and the Lord ſayd, <hi>like as my ſervant Iſay hath walked, naked and barefoot three years for a ſigne and a wonder upon Egypt and Ethiopia, Iſay.</hi> 20.1.2.3. So ſhal the King of <hi>Aſſyria</hi> lead away the Egyptians priſoners, and the Ethiopians Captives, young and old, naked and barefoot, even with their buttocks uncovered, to the ſhame of <hi>Egypt,</hi> and they ſhall be afraid and aſhamed of <hi>Ethiopia</hi> their expectation, and of <hi>Egypt</hi> their <hi>glory,</hi> 4, 5. Verſes.</p>
+               <p>Now if the Lord in this generation ſpeak to any to put off their gaw<g ref="char:EOLhyphen"/>dy attire, and to go in ſackcloth, and to be a figure to the people, that ſo ſhould all the pride and glory of the world and of the pomp and Egyp<g ref="char:EOLhyphen"/>tian craft be caſt off and layd aſide:</p>
+               <p>That would be a wonder to this generation, to them that truſt in fleſh and go down to <hi>Egypt</hi> for help, and if the Lord ſhould in this generati<g ref="char:EOLhyphen"/>on cauſe one to put off his garments and his ſhoes, and go naked and barefoot, three dayes, to ſhew to all, that as he is naked and barefoot three dayes before them, without covering, ſo muſt they be all uncovered, and their ſhame &amp; nakedneſſe appear before the Lord, and before all, it would make them ſtartle, &amp; they would wonder at it, in this Egyptian proud luſtful generation, as they wondered at <hi>Eſay,</hi> when he went naked and barefoot 3. years for a ſigne. The Lord ſaith, <hi>ſtrip, go make you bare, caſt off all your cloaths of diſhoneſty, and do not cover you with a profeſ<g ref="char:EOLhyphen"/>ſion, and pretence of godlineſſe, and ſtill walk in craftineſſe, guile and deccit, for your ſhame ſhall appear, and all your covers will be too nar<g ref="char:EOLhyphen"/>row to hide you, for the vail is renting away that hath been ſpread over all nations, Woe to the crown of pride, behold ye deſpiſers, wonder and periſh, for I will work a work in your dayes, which you will in no wiſe believe, though a man declare it to you, beware least that come upon you which is ſpoken of in the Prophets.</hi>
+               </p>
+               <p>Read and underſtand, ſhame and confuſion is coming upon all <hi>Egypt, Ethiopia</hi> and <hi>Idumea,</hi> and the people of Gods curſe, one woe is paſt and behold a ſecond woe is coming.</p>
+               <p>
+                  <pb n="7" facs="tcp:168067:4"/>Dwell in the light, which is the condemnation of the ungodly, for all they that are contrary to the light, are without the cloathing of God, a<g ref="char:EOLhyphen"/>mong ſuch doth the Lord ſend ſome of his Children, to go naked and put off their cloaths; a figure and a ſigne of their nakedneſſe, who are naked from god, and cloathed with the filthy garments, ſo ye all dwel<g ref="char:EOLhyphen"/>ling in the light, which never changeth, ye ſtumble not but are led out of darkneſſe, and from among the unbeleivers, where the ſignes are ſent, and ſuch as are from God, which light leads up to God, in which is the unity, ſo in the light all dwell.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Giles Calvert</hi> at the black ſpread Eagle neer the Weſt end of <hi>Pauls.</hi> 1655.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
